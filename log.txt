@@ -1,4 +1,4 @@
-Initiating legacy licensing module
+Initiating legacy licensing module 
 
 LICENSE SYSTEM [2022711 21:29:35] Next license update check is after 2032-06-13T00:00:00
 
