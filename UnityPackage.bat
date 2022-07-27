@@ -7,3 +7,4 @@ set UNITY_METHOD_NAME="BuildTool.BuildPC"
 
 %UNITY_PATH% -quit -batchmode -projectPath %UNITY_PROJECT_PATH% -executeMethod %UNITY_METHOD_NAME% -logfile "log.txt"
 
+exit 0
